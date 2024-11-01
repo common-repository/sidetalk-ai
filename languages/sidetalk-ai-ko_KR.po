@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sidetalk AI\n"
+"POT-Creation-Date: 2024-10-15 12:57+0900\n"
+"PO-Revision-Date: 2024-10-15 12:57+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sidetalk-ai.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: admin/sidetalk_setting.php:4
+msgid "Sidetalk AI"
+msgstr "사이드톡 AI"
+
+#: admin/sidetalk_setting.php:5
+msgid "Homepage"
+msgstr "홈페이지"
+
+#: admin/sidetalk_setting.php:6
+msgid "User Guide"
+msgstr "사용자 가이드"
+
+#: admin/sidetalk_setting.php:7
+msgid ""
+"This is the Sidetalk AI settings for those tired of various consultation "
+"tasks."
+msgstr "각종 상담 업무에 지치신 분을 위한 사이드톡 AI 설정입니다."
+
+#: admin/sidetalk_setting.php:16
+msgid "Required"
+msgstr "필수"
+
+#: admin/sidetalk_setting.php:18
+msgid "Please enter"
+msgstr "입력 필요"
+
+#: admin/sidetalk_setting.php:19
+msgid "Please enter it if you want to install Sidetalk."
+msgstr "사이드톡 설치를 원하시면 필수로 입력해주세요."
+
+#: admin/sidetalk_setting.php:20
+msgid "How to check SITE_KEY information."
+msgstr "SITE_KEY 정보 확인하는 방법이 궁금해요."
+
+#: admin/sidetalk_setting.php:24 admin/sidetalk_setting.php:32
+#: admin/sidetalk_setting.php:43 admin/sidetalk_setting.php:51
+#: admin/sidetalk_setting.php:59 admin/sidetalk_setting.php:67
+#: admin/sidetalk_setting.php:75 admin/sidetalk_setting.php:82
+#: admin/sidetalk_setting.php:92
+msgid "Optional"
+msgstr "선택"
+
+#: admin/sidetalk_setting.php:27
+msgid "Enter it if you want to link WordPress user information."
+msgstr "워드프레스 사용자 정보 연동을 원하시면 입력해주세요."
+
+#: admin/sidetalk_setting.php:28
+msgid ""
+"WordPress user information is sent to Sidetalk and used for CRM (Customer "
+"Relationship Management) functions."
+msgstr ""
+"워드프레스 사용자 정보가 사이드톡으로 전송되어 CRM(고객 관계 관리) 기능에 활"
+"용됩니다."
+
+#: admin/sidetalk_setting.php:32
+msgid "Theme"
+msgstr "테마"
+
+#: admin/sidetalk_setting.php:35
+msgid "System Default"
+msgstr "시스템 기본"
+
+#: admin/sidetalk_setting.php:36
+msgid "Dark Theme"
+msgstr "어두운 테마"
+
+#: admin/sidetalk_setting.php:37
+msgid "Light Theme"
+msgstr "밝은 테마"
+
+#: admin/sidetalk_setting.php:39
+msgid ""
+"You can select the chat window button theme. Choose if you want to change."
+msgstr "채팅창 버튼 테마를 선택할 수 있습니다. 변경을 원하시면 선택해주세요."
+
+#: admin/sidetalk_setting.php:46
+msgid ""
+"Enter the top position of the button. If you enter only a number, % will be "
+"applied automatically, and if you add px, it will be set in pixels."
+msgstr ""
+"버튼의 상단 위치를 입력하세요. 숫자만 입력하면 자동으로 %가 적용되며, px를 입"
+"력하면 픽셀 단위로 설정됩니다."
+
+#: admin/sidetalk_setting.php:47 admin/sidetalk_setting.php:55
+#: admin/sidetalk_setting.php:63 admin/sidetalk_setting.php:71
+msgid "If you do not want to use this setting, save it as an empty value."
+msgstr "해당 설정을 사용하고 싶지 않다면 빈값으로 저장하세요."
+
+#: admin/sidetalk_setting.php:54
+msgid ""
+"Enter the bottom position of the button. If you enter only a number, % will "
+"be applied automatically, and if you add px, it will be set in pixels."
+msgstr ""
+"버튼의 하단 위치를 입력하세요. 숫자만 입력하면 자동으로 %가 적용되며, px를 입"
+"력하면 픽셀 단위로 설정됩니다."
+
+#: admin/sidetalk_setting.php:62
+msgid ""
+"Enter the left position of the button. If you enter only a number, % will be "
+"applied automatically, and if you add px, it will be set in pixels."
+msgstr ""
+"버튼의 왼쪽위치를 입력하세요. 숫자만 입력하면 자동으로 %가 적용되며, px를 입"
+"력하면 픽셀 단위로 설정됩니다."
+
+#: admin/sidetalk_setting.php:70
+msgid ""
+"Enter the right position of the button. If you enter only a number, % will "
+"be applied automatically, and if you add px, it will be set in pixels."
+msgstr ""
+"버튼의 오른쪽 위치를 입력하세요. 숫자만 입력하면 자동으로 %가 적용되며, px를 "
+"입력하면 픽셀 단위로 설정됩니다."
+
+#: admin/sidetalk_setting.php:77
+msgid "AI Consultation"
+msgstr "AI 상담"
+
+#: admin/sidetalk_setting.php:78
+msgid "Enter the button text above the chat window if you want to change it."
+msgstr "채팅창 위에 버튼 텍스트를 변경을 원하시면 입력해주세요."
+
+#: admin/sidetalk_setting.php:82
+msgid "Hide Sidetalk Button"
+msgstr "사이드톡 버튼 숨김 설정"
+
+#: admin/sidetalk_setting.php:85
+msgid "Show"
+msgstr "표시"
+
+#: admin/sidetalk_setting.php:86
+msgid "Hide"
+msgstr "숨김"
+
+#: admin/sidetalk_setting.php:88
+msgid "This setting allows you to hide the chat window button."
+msgstr "채팅창 버튼을 숨김 수 있는 설정입니다."
+
+#: admin/sidetalk_setting.php:92
+msgid "Set Chat Button Image"
+msgstr "채팅창 버튼 이미지 설정"
+
+#: admin/sidetalk_setting.php:95
+msgid "You can set the background image for the chat window button."
+msgstr "채팅창 버튼 배경 이미지를 설정할 수 있습니다."
+
+#: admin/sidetalk_setting.php:96
+msgid "Enter the image URL."
+msgstr "이미지 URL을 입력하세요."
+
+#: admin/sidetalk_setting.php:103
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://sidetalk.kr/?utm_source=wp-plugins&utm_campaign=plugin-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is the Sidetalk AI plugin for those tired of handling various "
+"consultation tasks."
+msgstr "각종 상담 업무에 지치신 분을 위한 사이드톡 AI 플러그인입니다."
+
+#. Author of the plugin/theme
+msgid "사이드톡"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid ""
+"https://sidetalk.kr/?utm_source=wp-plugins&utm_campaign=author-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+
+#~ msgid "The default value is 70. Enter 0 if you do not want to use it."
+#~ msgstr "기본값은 70 입니다. 사용하지 않으려면 0을 입력하세요."
+
+#~ msgid "The default value is 30. Enter 0 if you do not want to use it."
+#~ msgstr "기본값은 30 입니다. 사용하지 않으려면 0을 입력하세요."
+
+#~ msgid "The default value is 90. Enter 0 if you do not want to use it."
+#~ msgstr "기본값은 90 입니다. 사용하지 않으려면 0을 입력하세요."
+
+#~ msgid "The default value is 5. Enter 0 if you do not want to use it."
+#~ msgstr "기본값은 5 입니다. 사용하지 않으려면 0을 입력하세요."
+
+#~ msgid ""
+#~ "Enter the percentage for the top position of the button. (Numbers only)"
+#~ msgstr "버튼 상단 위치 퍼센트를 입력해주세요. (숫자만)"
